@@ -9,3 +9,6 @@
 1. Srujan
 2. Patil
 3. Singhal
+## ORACLES :
+1. Zaqi
+2. Sachin
