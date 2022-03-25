@@ -12,3 +12,5 @@
 ## ORACLES :
 * Zaqi
 * Sachin
+
+> I am the NIGHT
