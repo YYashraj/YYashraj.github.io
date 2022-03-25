@@ -9,8 +9,8 @@
 1. Srujan
 2. Patil
 3. Shubh
-*Singhal
-*Aggrawal
+* Singhal
+* Aggrawal
 ## ORACLES :
 * Zaqi
 * Sachin
